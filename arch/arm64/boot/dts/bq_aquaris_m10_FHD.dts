@@ -1,7 +1,7 @@
 
 /dts-v1/;
 
-/include/ "mt8163.dtsi"
+/include/ "mt8163v.dtsi"
 
 / {
 	memory@00000000 {
